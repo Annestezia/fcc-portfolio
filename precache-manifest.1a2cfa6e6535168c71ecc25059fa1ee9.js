@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58f0fc33182de03eaa61e5454d866dfa",
+    "revision": "6ce946414043c4ff1efaed90df4b7521",
     "url": "/fcc-portfolio/index.html"
   },
   {
-    "revision": "5390bd6244ae865c682c",
-    "url": "/fcc-portfolio/static/css/main.a77d63b1.chunk.css"
+    "revision": "ecd61ae142ea9db2117b",
+    "url": "/fcc-portfolio/static/css/main.cc8948d8.chunk.css"
   },
   {
-    "revision": "fc0ff8922ee2122f03de",
-    "url": "/fcc-portfolio/static/js/2.46d0925f.chunk.js"
+    "revision": "9ef212f9ed52cbfc53c8",
+    "url": "/fcc-portfolio/static/js/2.03469002.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/fcc-portfolio/static/js/2.46d0925f.chunk.js.LICENSE"
+    "url": "/fcc-portfolio/static/js/2.03469002.chunk.js.LICENSE"
   },
   {
-    "revision": "5390bd6244ae865c682c",
-    "url": "/fcc-portfolio/static/js/main.f67acd51.chunk.js"
+    "revision": "ecd61ae142ea9db2117b",
+    "url": "/fcc-portfolio/static/js/main.b2602c4e.chunk.js"
   },
   {
     "revision": "51d1ae41d1aa134eab2c",
     "url": "/fcc-portfolio/static/js/runtime-main.69f6c811.js"
+  },
+  {
+    "revision": "7de565ec72dbb893a40107b2132dad9c",
+    "url": "/fcc-portfolio/static/media/d3-barchart-preview.7de565ec.png"
   },
   {
     "revision": "73ca43882c63c94012352de5775d11f6",
@@ -32,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fcc-portfolio/static/media/landing-page-preview.c56b6ef2.png"
   },
   {
-    "revision": "05a2c47c5b9e0d9327805f28d9a6e597",
-    "url": "/fcc-portfolio/static/media/landing-page-v2-preview.05a2c47c.png"
+    "revision": "628cdefcf55418c46ddcd92a73468e6e",
+    "url": "/fcc-portfolio/static/media/landing-page-v2-preview.628cdefc.png"
   },
   {
     "revision": "6348ffcd061cee78edc0af9f8d0594b8",
