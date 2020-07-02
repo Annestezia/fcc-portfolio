@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ce946414043c4ff1efaed90df4b7521",
+    "revision": "f7d73924df84a556f6486374638a784f",
     "url": "/fcc-portfolio/index.html"
   },
   {
-    "revision": "ecd61ae142ea9db2117b",
+    "revision": "19d116a8e1afb4a7afb8",
     "url": "/fcc-portfolio/static/css/main.cc8948d8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fcc-portfolio/static/js/2.03469002.chunk.js.LICENSE"
   },
   {
-    "revision": "ecd61ae142ea9db2117b",
-    "url": "/fcc-portfolio/static/js/main.b2602c4e.chunk.js"
+    "revision": "19d116a8e1afb4a7afb8",
+    "url": "/fcc-portfolio/static/js/main.5c11fb59.chunk.js"
   },
   {
     "revision": "51d1ae41d1aa134eab2c",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fcc-portfolio/static/media/drum-machine-preview.73ca4388.png"
   },
   {
-    "revision": "c56b6ef2f4be140bec2d45a0c9207b0e",
-    "url": "/fcc-portfolio/static/media/landing-page-preview.c56b6ef2.png"
+    "revision": "628cdefcf55418c46ddcd92a73468e6e",
+    "url": "/fcc-portfolio/static/media/landing-page-preview.628cdefc.png"
   },
   {
-    "revision": "628cdefcf55418c46ddcd92a73468e6e",
-    "url": "/fcc-portfolio/static/media/landing-page-v2-preview.628cdefc.png"
+    "revision": "bc4c418039f2361b5df45a1a11261610",
+    "url": "/fcc-portfolio/static/media/landing-page-v2-preview.bc4c4180.png"
   },
   {
     "revision": "6348ffcd061cee78edc0af9f8d0594b8",
